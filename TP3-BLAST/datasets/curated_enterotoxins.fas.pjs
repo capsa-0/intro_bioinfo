@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "curated_enterotoxins.fas",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "datasets/curated_enterotoxins.fas",
+  "number-of-letters": 9880,
+  "number-of-sequences": 40,
+  "last-updated": "2025-04-15T07:36:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1014308,
+  "bytes-to-cache": 10373,
+  "files": [
+    "curated_enterotoxins.fas.pdb",
+    "curated_enterotoxins.fas.phr",
+    "curated_enterotoxins.fas.pin",
+    "curated_enterotoxins.fas.pot",
+    "curated_enterotoxins.fas.psq",
+    "curated_enterotoxins.fas.ptf",
+    "curated_enterotoxins.fas.pto"
+  ]
+}

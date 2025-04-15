@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "proteome_N315.fas",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "datasets/proteome_N315.fas",
+  "number-of-letters": 789761,
+  "number-of-sequences": 2706,
+  "last-updated": "2025-04-14T22:42:00",
+  "number-of-volumes": 1,
+  "bytes-total": 2530166,
+  "bytes-to-cache": 814240,
+  "files": [
+    "proteome_N315.fas.pdb",
+    "proteome_N315.fas.phr",
+    "proteome_N315.fas.pin",
+    "proteome_N315.fas.pot",
+    "proteome_N315.fas.psq",
+    "proteome_N315.fas.ptf",
+    "proteome_N315.fas.pto"
+  ]
+}
