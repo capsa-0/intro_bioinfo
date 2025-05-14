@@ -1,0 +1,5 @@
+a) ¿Cuáles son las proteínas más parecidas entre sí?
+Tanto en la tabla de comparaciones de bitscore como la de % de residuos con alineamiento positivo, un valor alto corresponde a una mayor similitud entre las secuencias comparadas. En ambas tablas, el valor más alto corresponde al par HbA2 - HbB (globina alfa 2 y globina beta), para el cual se obtuvieron bitscores de 113 y % de residuos alineados positivamente de 63,4. Ésto tiene sentido dado que estos dos polipéptidos están codificados por genes parálogos, con un mismo origen evolutivo y cercanamente emparentados.
+
+b) ¿Cuáles son las más diferentes entre sí?
+Las más diferentes o menos similares, según el criterio mencionado recién, son HbB - Mb (globina beta y mioglobina). Con bitscores de 45,8 y % de residuos alineados positivamente de 42,1.

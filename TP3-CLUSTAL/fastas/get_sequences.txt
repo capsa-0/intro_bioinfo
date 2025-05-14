@@ -1,0 +1,12 @@
+# a) Mioglobina humana (Mb)
+curl -s "https://rest.uniprot.org/uniprotkb/P02144.fasta" -o Mb.fasta
+
+# b) Citoglobina humana (Cgb)
+curl -s "https://rest.uniprot.org/uniprotkb/Q8WWM9.fasta" -o Cgb.fasta
+
+# c) Globina alfa 2 humana (HbA2)
+curl -s "https://rest.uniprot.org/uniprotkb/P69905.fasta" -o HbA2.fasta
+
+# d) Globina beta humana (HbB)
+curl -s "https://rest.uniprot.org/uniprotkb/P68871.fasta" -o HbB.fasta
+
